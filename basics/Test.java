@@ -4,8 +4,8 @@ public class Test {
 	
 	public static void main(String[] args) {
 		
-	person p=new person();
-	acc a=new acc();
+//	person p=new person();
+//	acc a=new acc();
 	}
 
 }

@@ -6,5 +6,5 @@ public class TestMyConstructors {
 		System.out.println(mm.getFirstName());
 		System.out.println(mm.getAge());
 	}
-
+     
 }
