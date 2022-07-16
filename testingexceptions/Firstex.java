@@ -5,11 +5,11 @@ public class Firstex {
 //		double i = 0;
 //		double k = 15;
 		try {
-		double div = 15/3;
+		double div = 15/0;
 		System.out.println(div);
 		}
-		catch(ArithmeticException e) {
-			System.err.println("you can't divide by zero");
+		catch(Exception e) {
+			System.err.println(e.getMessage());
 		}
 		finally {
 			System.out.println("it will run : FINALLY");
